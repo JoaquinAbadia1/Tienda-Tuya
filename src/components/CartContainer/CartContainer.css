@@ -1,0 +1,21 @@
+.nombre{
+    color: #000;
+}
+.boton{
+    display: flex;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    justify-content: center;
+    margin-top: 100px;
+    text-decoration: none;
+    color:#fff;
+    text-align: center;
+    background-color: blueviolet;
+    margin-left: 70px;
+    border-Radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    transition:'all 0.3s ease-in-out';
+    width: fit-content;
+    justify-content: center;
+}

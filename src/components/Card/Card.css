@@ -1,0 +1,31 @@
+.boton{
+    text-decoration: none;
+    color:#fff;
+    text-align: center;
+    background-color: blueviolet;
+    margin-left: 70px;
+}
+.boton:hover{
+    color:#fff ;
+    text-decoration: none;
+    background-color: cyan;
+}
+.texto{
+    color: black;
+    text-align: center;
+}
+.carta{ 
+    max-height: 300px;
+}
+.botones{
+   background-color: #fff; 
+   border: none;
+   margin-left: 40px;
+}
+.img{
+    height: 400px;
+    width: 300px;
+}
+.card{
+    margin-top: 10px;
+}
