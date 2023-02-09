@@ -16,3 +16,4 @@ https://user-images.githubusercontent.com/106445514/217715130-9d39d4cb-3eee-4d54
 
 
 ## 
+este proyecto fue creado  para el curso de desarrollo web front-end con ReactJs.
