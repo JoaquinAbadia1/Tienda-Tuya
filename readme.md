@@ -1,6 +1,6 @@
 ## TiendaTuya
 
-## Instalación de mi repositorio
+## 📁 Acceso al proyecto
 
 ```sh
 $ git clone https://github.com/JoaquinAbadia1/tienda-tuya
@@ -12,6 +12,7 @@ $ npm start
 
 - Video de prueba de la pagina
 
-https://user-images.githubusercontent.com/111345429/217632410-94de19de-d428-4082-8a9b-a19ce4efcb96.mp4
+https://user-images.githubusercontent.com/106445514/217715130-9d39d4cb-3eee-4d54-8255-34973dc2d174.mp4
+
 
 ## 
